@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ab3de3d0-aa8f-4ebd-8f4d-b88a36bf0d93" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/05-reduce.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/05-reduce.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1683895108489</updated>
       <workItem from="1683895111448" duration="1367000" />
-      <workItem from="1683903634986" duration="652000" />
+      <workItem from="1683903634986" duration="1503000" />
     </task>
     <servers />
   </component>
